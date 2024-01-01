@@ -1,0 +1,4 @@
+name = so_long
+
+CC = cc
+FLAGS = -Werror -Wall -Wextra

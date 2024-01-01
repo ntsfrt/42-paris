@@ -1,0 +1,6 @@
+name = so_long
+
+CC = cc
+FLAGS = -Werror -Wall -Wextra
+SRCS_FILES = ./srcs
+RCRS_FILE = ./rcr

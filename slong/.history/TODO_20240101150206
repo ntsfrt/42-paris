@@ -1,0 +1,14 @@
+Apprentissage :
+
+
+Fonctionnement du programme:
+
+☐ Checker si la map est valide
+☐ 	|->	Regarder si la map est un rectangle entoure de murs
+☐ 	|->	Regarder s'il existe un chemin valide (le joueur peut acceder a tous les collectibles et a la sortie)
+☐ 
+☐ Charger la MLX
+☐ Ouvrir une fenetre et stocker le pointeur sur cette fenetre
+☐ Charger les textures en fonction de la map
+☐ 	|->	Free toutes les textures chargees si une ne se charge pas correctement et arreter le programme
+☐ 
