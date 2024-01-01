@@ -3,14 +3,11 @@ Apprentissage :
 
 Fonctionnement du programme:
 	☐ Checker si la map est valide
-	☐ 	|->	Regarder si la map est un rectangle entoure de murs 													|| Faire une fonction check_map(char **map);
-	☐ 	|->	Regarder s'il existe un chemin valide (le joueur peut acceder a tous les collectibles et a la sortie)	|| Faire une fonction check_path(char **map);
+	☐ 	|->	Regarder si la map est un rectangle entoure de murs
+	☐ 	|->	Regarder s'il existe un chemin valide (le joueur peut acceder a tous les collectibles et a la sortie)
 	☐ 
 	☐ Charger la MLX
 	☐ Ouvrir une fenetre et stocker le pointeur sur cette fenetre
 	☐ Charger les textures en fonction de la map
 	☐ 	|->	Free toutes les textures chargees si une ne se charge pas correctement et arreter le programme
 	☐ 
-
-	Ressources :
-		https://chat.openai.com/share/183d3029-a806-418f-82f3-7bb8722e4b75
